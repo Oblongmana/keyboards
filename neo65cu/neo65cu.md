@@ -20,9 +20,9 @@
 
 ### Notes
 - Full instructions indicate firmware flashing is unnecessary
-  - [ ] Note though that the high debounce firmware explicitly says for U4T. Review after using for a bit
 
 ### Instructions 2026-04-25-1353
-- [JSON](NEO65_0816.json)
-- [Firmware](NEO65_via_v1_12_20240308.bin) (flash with [QMKToolbox Beta](https://github.com/qmk/qmk_toolbox/releases/download/beta/qmk_toolbox.exe))
-- [high debounce firmware](NEO65_via_v1_12_12ms_Debounce_20240403.bin) (for u4t, flash with [QMKToolbox Beta](https://github.com/qmk/qmk_toolbox/releases/download/beta/qmk_toolbox.exe))
+- Tri-mode
+  - [JSON](Neo65Cu_trimode.json)
+  - [firmware](Neo_65Cu-v1.01.bin) (flash with [QMKToolbox Beta](https://github.com/qmk/qmk_toolbox/releases/download/beta/qmk_toolbox.exe))
+
